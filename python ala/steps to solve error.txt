@@ -1,5 +1,5 @@
 STEPS TO SOLVE THE ERRORS IN THE CODE
-======================================
+
 
 The original code had 7 errors. Here are the steps to fix them:
 
@@ -39,10 +39,11 @@ Step 7: Add indentation before print("Registered") (Line 14)
 - Reason: The code inside a for loop must be indented.
 
 SUMMARY OF CORRECTIONS:
-=======================
+
 - Line 6: Changed "if event in event" to "if event in events:"
 - Line 7: Added indentation before "participants.append(name)"
 - Line 9: Added colon after "else"
 - Line 12: Changed "Event" to "event"
 - Line 13: Added colon after "for i in range(3)"
 - Line 14: Added indentation before "print("Registered")"
+
